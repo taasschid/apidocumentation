@@ -5,13 +5,10 @@ permalink: /2/
 eleventyNavigation:
   key: Hello
   order: 1
-  title: Hello, world.
+  title: Hello, world2
 ---
 You have successfully launched your spacebook. If you are new here, you may want to [read the docs](https://spacebook.app/) for tips and tricks on setting up your project.
 
-![Hello, world](/content/images/hello.jpg)
+![Hello, world2](/content/images/hello.jpg)
 
-->*Onward...*<-
-
-
-
+\->*Onward...*<-
