@@ -1,7 +1,7 @@
 ---
 title: Hello, world 2
 date: 2023-01-02T09:08:29.974Z
-permalink: /2
+permalink: /2/
 eleventyNavigation:
   key: Hello
   order: 1
